@@ -1,1 +1,2 @@
 # odin-recipes
+This project is a blog that provides step-by-step instructions for making three different recipes. Through this project, I demonstrated how to structure web content using HTML elements such as headings, images, unordered and ordered lists. Additionally, I showcased how to link multiple webpages to create a seamless user experience across the recipe pages.
