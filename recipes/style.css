@@ -1,0 +1,43 @@
+body { 
+font-family: sans-serif;
+background-color: #FAF7F2;
+
+}
+
+.title {
+    font-size:32px;
+    font-weight: bold;
+    text-align:center;
+    color: #eee;
+    border-radius: 8px;
+    text-decoration: none;
+    margin: 20px auto;   
+    max-width: 300px;
+    background-color: #C27A43;
+    padding: 10px 20px; 
+    font-family: inherit;
+    
+}
+
+ .recipes a {
+    display: block;        
+    margin: 8px auto;
+    width: fit-content;    
+    padding: 10px 15px;
+    background-color: #D8C3A5;
+    color: white;
+    text-decoration: none;
+    border-radius: 8px;
+    font-weight: bold;
+    transition: 0.2s;
+    font-family: inherit;
+}
+
+.recipes a:hover {
+    background-color: #A47149; 
+}
+
+
+   
+
+
